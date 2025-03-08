@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly. Updated 7:43</li>
+          <li>Save and see your changes instantly. Updated 8:10</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
